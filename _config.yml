@@ -1,0 +1,28 @@
+title: Heng Chen
+url: ""
+#baseurl: "/researcher"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: ""
+footer_text: "Heng Chen's Personal Website"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/about/"
+ - name: "Research"
+   link: "/research/"
+ - name: "Briefings"
+   link: "/briefings/"
+ - name: "Teaching"
+   link: "/teaching/"
+ - name: "Contact"
+   link: "/contact/"
