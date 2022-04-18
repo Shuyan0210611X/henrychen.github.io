@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: ""
-footer_text: "Heng Chen's Personal Website"
+footer_text: ""
 
 sass:
     style: compressed
@@ -20,9 +20,9 @@ nav:
    link: "/about/"
  - name: "Research"
    link: "/research/"
- - name: "Briefings"
-   link: "/briefings/"
  - name: "Teaching"
    link: "/teaching/"
+ - name: "Briefings"
+   link: "/briefings/"
  - name: "Contact"
    link: "/contact/"
