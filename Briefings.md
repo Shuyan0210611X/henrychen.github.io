@@ -8,7 +8,7 @@ permalink: /briefings/
 
 [**An interview with Prof. Heng Chen on Evidentialist Channel on Ximalaya FM**](https://www.ximalaya.com/sound/51402257)
 
-[**Royal Economic Society: MIDDLE CLASS ACTIVISM: Why it’s rarely the most disadvantaged who drive political change**](https://www.res.org.uk/details/mediabrief/10607733/MIDDLE-CLASS-ACTIVISM-Why-its-rarely-the-most-disadvantaged-who-drive-political-.html)
+[**Royal Economic Society: MIDDLE CLASS ACTIVISM: Why it’s rarely the most disadvantaged who drive political change**](https://www.res.org.uk/resources-page/middle-class-activism--why-it--s-rarely-the-most-disadvantaged-who-drive-political-change.html)
 
 [**Newsweek: WHO TAKES PART IN PROTESTS?**](https://www.newsweek.com/middle-class-protestors-working-class-652084)
 
