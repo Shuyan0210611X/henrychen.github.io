@@ -24,6 +24,8 @@ permalink: /research/
 
 (with Yulei Luo and Guangyu Pei)  ***Journal of Economic Dynamics and Control*** 2015, 59(Oct):37-57
 
+<br>
+<br>
 
 
 ## Political Economy
