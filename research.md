@@ -10,7 +10,7 @@ permalink: /research/
 
 [**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Heterogeneous.pdf)
 
-(with Xu Li, Guangyu Pei and Qian Xin) Journal of Economic Theory 2024, Volume 218, 105839
+(with Xu Li, Guangyu Pei and Qian Xin) **Journal of Economic Theory** 2024, Volume 218, 105839
 
 [**​Competition for Attention and News Quality**](/files/Competition.pdf)
 
