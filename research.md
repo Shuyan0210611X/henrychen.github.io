@@ -2,7 +2,10 @@
 layout: default
 permalink: /research/
 ---
-## Publications
+## Information Friction
+[**Trend, Cycle and Expectation Formation**](/files/Trend.pdf)
+
+  ​(with Yicheng Liu) Working Paper
 
 [**Radicalism in Mass Movements: Asymmetric Information and Endogenous Leadership**](/files/Radicalism.pdf)
 
