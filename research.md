@@ -12,17 +12,17 @@ permalink: /research/
 
 [**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Heterogeneous.pdf)
 
-(with Xu Li, Guangyu Pei and Qian Xin) **Journal of Economic Theory** 2024, Volume 218, 105839
+(with Xu Li, Guangyu Pei and Qian Xin) ***Journal of Economic Theory*** 2024, Volume 218, 105839
 
 
 [**​Competition for Attention and News Quality**](/files/Competition.pdf)
 
-(with Wing Suen) **American Economic Journal: Microeconomics** 2023, 15 (3):1-32 (lead article)
+(with Wing Suen) ***American Economic Journal: Microeconomics*** 2023, 15 (3):1-32 (lead article)
 
 
 [**Attention Misallocation, Social Welfare and Policy Implications**](/files/Attention.pdf)
 
-(with Yulei Luo and Guangyu Pei)  **Journal of Economic Dynamics and Control** 2015, 59(Oct):37-57
+(with Yulei Luo and Guangyu Pei)  ***Journal of Economic Dynamics and Control*** 2015, 59(Oct):37-57
 
 
 
@@ -54,19 +54,19 @@ permalink: /research/
 (with Derek Huo) Working Paper
 
 
-[**Radicalism in Mass Movements: Asymmetric Information and Endogenous Leadership**](/files/Radicalism.pdf)
+[<span style="font-size: 20px;">**Radicalism in Mass Movements: Asymmetric Information and Endogenous Leadership**](/files/Radicalism.pdf)
 
-​(with Wing Suen) **American Political Science Review** 2021, 115, 1, 286-306
+​(with Wing Suen) ***American Political Science Review*** 2021, 115, 1, 286-306
 
 
 [**Aspiring for Change: A Theory of Middle Class Activism**](/files/Aspiring.pdf)
 
-(with Wing Suen)  **The Economic Journal** 2017, 127:1318-1347
+(with Wing Suen)  ***The Economic Journal*** 2017, 127:1318-1347
 
 
 [**The Power of Whispers: A Theory of Rumor, Communication and Revolution**](/files/Thepower.pdf)
 
-(with Yang Lu and Wing Suen) **International Economic Review** 2016, 57(No.1):89-116
+(with Yang Lu and Wing Suen) ***International Economic Review*** 2016, 57(No.1):89-116
 
 [**Falling ﻿Dominoes﻿: A Theory of Rare Events and Crisis Contagion**](/files/Falling.pdf)
 
