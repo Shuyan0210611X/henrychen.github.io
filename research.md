@@ -3,9 +3,33 @@ layout: default
 permalink: /research/
 ---
 ## Information Friction
+
 [**Trend, Cycle and Expectation Formation**](/files/Trend.pdf)
 
-  ​(with Yicheng Liu) Working Paper
+(with Yicheng Liu) Working Paper
+
+[**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Heterogeneous.pdf)
+
+(with Xu Li, Guangyu Pei and Qian Xin) Journal of Economic Theory 2024, Volume 218, 105839
+
+[**​Competition for Attention and News Quality**](/files/Competition.pdf)
+
+(with Wing Suen) American Economic Journal: Microeconomics 2023, 15 (3):1-32 (lead article)
+
+[**Attention Misallocation, Social Welfare and Policy Implications**](/files/Attention.pdf)
+
+(with Yulei Luo and Guangyu Pei)  Journal of Economic Dynamics and Control, 2015, 59(Oct):37-57
+
+
+## Political Economy
+
+[**Do the Media Bow to Foreign Economic Powers? Evidence from a News Website Crackdown​**](/files/MediaBow.pdf)
+
+(with Li Han) R&R
+
+[**Women in the Courtroom: Technology and Justice​**](/files/Women.pdf)
+
+(with Yuyu Chen and Qingxu Yang) R&R
 
 [**Radicalism in Mass Movements: Asymmetric Information and Endogenous Leadership**](/files/Radicalism.pdf)
 
@@ -23,23 +47,14 @@ permalink: /research/
 
 (with Yang Lu and Wing Suen) [Technical Appendix](/files/Appendix.pdf)  International Economic Review, 2016, 57(No.1):89-116
 
-[**Attention Misallocation, Social Welfare and Policy Implications**](/files/Attention.pdf)
-
-(with Yulei Luo and Guangyu Pei)  Journal of Economic Dynamics and Control, 2015, 59(Oct):37-57
 
 ## Working Papers
 
-[**Do the Media Bow to Foreign Economic Powers? Evidence from a News Website Crackdown​**](/files/MediaBow.pdf)
 
-(with Li Han)
 
 [**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Overreaction.pdf)
 
 (with Guangyu Pei, Qian Xin and Xu Li)
-
-[**​Competition for Attention and News Quality**](/files/Competition.pdf)
-
-(with Wing Suen) ​American Economic Journal: Microeconomics, revise and resubmit 
 
 [**Women in the Courtroom**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4039566)
 
