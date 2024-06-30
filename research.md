@@ -54,7 +54,7 @@ permalink: /research/
 (with Derek Huo) Working Paper
 
 
-[<span style="font-size: 25px;">**Radicalism in Mass Movements: Asymmetric Information and Endogenous Leadership**</span>](/files/Radicalism.pdf)
+[**Radicalism in Mass Movements: Asymmetric Information and Endogenous Leadership**](/files/Radicalism.pdf)
 
 ​(with Wing Suen) ***American Political Science Review*** 2021, 115, 1, 286-306
 
