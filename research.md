@@ -54,7 +54,7 @@ permalink: /research/
 
 [**The Power of Whispers: A Theory of Rumor, Communication and Revolution**](/files/Thepower.pdf)
 
-(with Yang Lu and Wing Suen) [Technical Appendix](/files/Appendix.pdf)  International Economic Review, 2016, 57(No.1):89-116
+(with Yang Lu and Wing Suen) International Economic Review, 2016, 57(No.1):89-116
 
 [**Falling ﻿Dominoes﻿: A Theory of Rare Events and Crisis Contagion**](/files/Falling.pdf)
 
