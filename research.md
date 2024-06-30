@@ -24,7 +24,7 @@ permalink: /research/
 
 ## Political Economy
 
-[**Do the Media Bow to Foreign Economic Powers? Evidence from a News Website Crackdown​**](/files/MediaBow.pdf)
+[**The Media and Foreign Powers: Does Market Access Matter for News Reporting?​**](/files/MediaBow.pdf)
 
 (with Li Han) R&R
 
