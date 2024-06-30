@@ -20,8 +20,6 @@ nav:
    link: "/about/"
  - name: "Research"
    link: "/research/"
- - name: "Teaching"
-   link: "/teaching/"
  - name: "Briefings"
    link: "/briefings/"
  - name: "Contact"
