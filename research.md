@@ -40,7 +40,7 @@ permalink: /research/
 
 (with Hongbin Cai, Yuyu Chen and Sisi Zhang) Working Paper
 
-[**Conflict Experiences and Asset Prices**]
+**Conflict Experiences and Asset Prices**
 
 (with Derek Huo) Working Paper
 
