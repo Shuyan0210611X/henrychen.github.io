@@ -88,5 +88,5 @@ permalink: /research/
 
 [**Falling ﻿Dominoes﻿: A Theory of Rare Events and Crisis Contagion**](/files/Falling.pdf)
 
-(with Wing Suen)  **American Economic Journal: Microeconomics** 2016, 8(1):228-55
+(with Wing Suen)  ***American Economic Journal: Microeconomics*** 2016, 8(1):228-55
 
