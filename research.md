@@ -47,6 +47,8 @@ permalink: /research/
 
 [**Falling ﻿Dominoes﻿: A Theory of Rare Events and Crisis Contagion**](/files/Falling.pdf) (with Wing Suen)  ***American Economic Journal: Microeconomics*** 2016, 8(1):228-55
 
+
+
 ## Information Friction
 <br>
 
@@ -66,5 +68,5 @@ permalink: /research/
 [**Attention Misallocation, Social Welfare and Policy Implications**](/files/Attention.pdf) (with Yulei Luo and Guangyu Pei)  ***Journal of Economic Dynamics and Control*** 2015, 59(Oct):37-57
 
 <br>
-<br>
+
 
