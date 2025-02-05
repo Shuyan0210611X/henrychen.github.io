@@ -4,7 +4,7 @@ permalink: /research/
 ---
 
 
-## Information Friction
+## Information Friction and Attention Allocation
 <br>
 
 [**Trend, Cycle and Expectation Formation**](/files/Trend.pdf) (with Yicheng Liu) Under Review
