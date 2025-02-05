@@ -50,7 +50,7 @@ permalink: /research/
 
 <br>
 
-[**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/Conflict.pdf) (with Derek Huo) Working Paper
+[**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/housing-2025-Feb.pdf) (with Derek Huo) Working Paper
 
 <br>
 
