@@ -5,7 +5,7 @@ permalink: /research/
 ## Information Friction
 <br>
 
-[**Trend, Cycle and Expectation Formation**](/files/Trend.pdf) (with Yicheng Liu) Working Paper
+[**Trend, Cycle and Expectation Formation**](/files/Trend.pdf) (with Yicheng Liu) Under Review
 
 <br>
 
