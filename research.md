@@ -25,18 +25,19 @@ permalink: /research/
 <br>
 
 ## Political Economy
+<br>
+
+[**The Media and Foreign Powers: Does Market Access Matter for News Reporting?​**](/files/MediaBow.pdf) (with Li Han) R&R
+
+<br>
+
+[**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/housing-2025-Feb.pdf) (with Derek Huo) Working Paper
 
 <br>
 
 [**Bottom-Up Institutional Change and Growth in China​**](/files/CLZ_Jan2025.pdf) (with Bingjing Li and Xiaodong Zhu)
 
 <br>
-
-[**The Media and Foreign Powers: Does Market Access Matter for News Reporting?​**](/files/MediaBow.pdf) (with Li Han) R&R
-
-
-<br>
-
 
 [**Cultural Traits and Behavior During Crisis: Evidence from Courier Daily Performance Records**](/files/Courier.pdf) (Yuyu Chen, Yuxi Xie and Qingxu Yang) Under Review
 
@@ -45,11 +46,6 @@ permalink: /research/
 [**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/Cronies.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) Working Paper
 
 <br>
-
-[**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/housing-2025-Feb.pdf) (with Derek Huo) Working Paper
-
-<br>
-
 
 [**Women in the Courtroom: Technology and Justice​**](/files/Women.pdf) (with Yuyu Chen and Qingxu Yang) ***Review of Economic Studies*** Accept 
 
