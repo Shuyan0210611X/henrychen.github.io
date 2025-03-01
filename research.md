@@ -31,7 +31,7 @@ permalink: /research/
 
 <br>
 
-[**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/housing-2025-March.pdf) (with Derek Huo) Working Paper
+[**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/housing-2025-March.pdf) (with Derek Huo) 
 
 <br>
 
@@ -39,11 +39,11 @@ permalink: /research/
 
 <br>
 
-[**Cultural Traits and Behavior During Crisis: Evidence from Courier Daily Performance Records**](/files/Courier.pdf) (Yuyu Chen, Yuxi Xie and Qingxu Yang) Under Review
+[**Cultural Traits and Behavior During Crisis: Evidence from Courier Daily Performance Records**](/files/Courier.pdf) (Yuyu Chen, Yuxi Xie and Qingxu Yang) 
 
 <br>
 
-[**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/Cronies.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) Working Paper
+[**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/Cronies.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) 
 
 <br>
 
