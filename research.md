@@ -35,7 +35,7 @@ permalink: /research/
 
 <br>
 
-[**Bottom-Up Institutional Change and Growth in China​**](/files/CLZ_Jan2025.pdf) (with Bingjing Li and Xiaodong Zhu)
+[**Bottom-Up Institutional Change and Growth in China​**](/files/CLZ_Feb-2025.pdf) (with Bingjing Li and Xiaodong Zhu)
 
 <br>
 
