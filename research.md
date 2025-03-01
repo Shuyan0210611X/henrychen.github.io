@@ -47,7 +47,7 @@ permalink: /research/
 
 <br>
 
-[**Women in the Courtroom: Technology and Justice​**](/files/Women.pdf) (with Yuyu Chen and Qingxu Yang) ***Review of Economic Studies*** Accept 
+[**Women in the Courtroom: Technology and Justice​**](/files/resubmission-20241126.pdf) (with Yuyu Chen and Qingxu Yang) ***Review of Economic Studies*** Accept 
 
 <br>
 
