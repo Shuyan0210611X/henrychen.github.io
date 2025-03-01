@@ -34,10 +34,6 @@ permalink: /research/
 
 [**The Media and Foreign Powers: Does Market Access Matter for News Reporting?​**](/files/MediaBow.pdf) (with Li Han) R&R
 
-<br>
-
-
-[**Women in the Courtroom: Technology and Justice​**](/files/Women.pdf) (with Yuyu Chen and Qingxu Yang) R&R
 
 <br>
 
@@ -51,6 +47,11 @@ permalink: /research/
 <br>
 
 [**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/housing-2025-Feb.pdf) (with Derek Huo) Working Paper
+
+<br>
+
+
+[**Women in the Courtroom: Technology and Justice​**](/files/Women.pdf) (with Yuyu Chen and Qingxu Yang) ***Review of Economic Studies*** Accept 
 
 <br>
 
