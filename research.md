@@ -27,7 +27,7 @@ permalink: /research/
 ## Political Economy
 <br>
 
-[**The Media and Foreign Powers: Does Market Access Matter for News Reporting?​**](/files/MediaBow.pdf) (with Li Han) R&R
+[**The Media and Foreign Powers: Does Market Access Matter for News Reporting?​**](/files/submission-2024-final-submission.pdf) (with Li Han) R&R
 
 <br>
 
