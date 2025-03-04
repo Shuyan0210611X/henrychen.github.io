@@ -4,26 +4,6 @@ permalink: /research/
 ---
 
 
-## Information Friction
-<br>
-
-[**Trend, Cycle and Expectation Formation**](/files/Trend.pdf) (with Yicheng Liu) 
-
-<br>
-
-[**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Heterogeneous.pdf) (with Xu Li, Guangyu Pei and Qian Xin) ***Journal of Economic Theory*** 2024, Volume 218, 105839
-
-<br>
-
-
-[**​Competition for Attention and News Quality**](/files/Competition.pdf) (with Wing Suen) ***American Economic Journal: Microeconomics*** 2023, 15 (3):1-32 (lead article)
-
-<br>
-
-[**Attention Misallocation, Social Welfare and Policy Implications**](/files/Attention.pdf) (with Yulei Luo and Guangyu Pei)  ***Journal of Economic Dynamics and Control*** 2015, 59(Oct):37-57
-
-<br>
-
 ## Political Economy
 <br>
 
@@ -64,6 +44,28 @@ permalink: /research/
 <br>
 
 [**Falling ﻿Dominoes﻿: A Theory of Rare Events and Crisis Contagion**](/files/Falling.pdf) (with Wing Suen)  ***American Economic Journal: Microeconomics*** 2016, 8(1):228-55
+
+
+
+## Information Friction
+<br>
+
+[**Trend, Cycle and Expectation Formation**](/files/Trend.pdf) (with Yicheng Liu) 
+
+<br>
+
+[**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Heterogeneous.pdf) (with Xu Li, Guangyu Pei and Qian Xin) ***Journal of Economic Theory*** 2024, Volume 218, 105839
+
+<br>
+
+
+[**​Competition for Attention and News Quality**](/files/Competition.pdf) (with Wing Suen) ***American Economic Journal: Microeconomics*** 2023, 15 (3):1-32 (lead article)
+
+<br>
+
+[**Attention Misallocation, Social Welfare and Policy Implications**](/files/Attention.pdf) (with Yulei Luo and Guangyu Pei)  ***Journal of Economic Dynamics and Control*** 2015, 59(Oct):37-57
+
+<br>
 
 
 
