@@ -6,7 +6,7 @@ permalink: /contact/
 
 Associate Professor of Economics
 
-School of Economics and Finance
+HKU Business School
 
 The University of Hong Kong
 
