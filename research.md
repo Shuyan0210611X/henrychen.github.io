@@ -47,6 +47,7 @@ permalink: /research/
 
 
 
+
 ## Information Friction
 <br>
 
