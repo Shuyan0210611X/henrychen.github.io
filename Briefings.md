@@ -4,7 +4,7 @@ permalink: /briefings/
 ---
 [**Between Radicalism and Moderation: Determining Leadership in Mass Movements**](https://politicalsciencenow.com/between-radicalism-and-moderation-determining-leadership-in-mass-movements/)
 
-[**LSE Business Review: Why Middle Class Activism Surprises Economists**](https://politicalsciencenow.com/between-radicalism-and-moderation-determining-leadership-in-mass-movements/)
+[**LSE Business Review: Why Middle Class Activism Surprises Economists**](https://blogs.lse.ac.uk/businessreview/2017/10/10/why-middle-class-activism-surprises-economists/)
 
 [**An Interview with Prof. Heng Chen on Evidentialist Channel on Ximalaya FM**](https://www.ximalaya.com/sound/51402257)
 
