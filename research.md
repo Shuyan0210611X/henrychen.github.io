@@ -31,6 +31,12 @@ permalink: /research/
 
 <br>
 
+
+[**​Competition for Attention and News Quality**](/files/Competition.pdf) (with Wing Suen) ***American Economic Journal: Microeconomics*** 2023, 15 (3):1-32 (lead article)
+
+
+<br>
+
 [**Radicalism in Mass Movements: Asymmetric Information and Endogenous Leadership**](/files/Radicalism.pdf) ​(with Wing Suen) ***American Political Science Review*** 2021, 115, 1, 286-306
 
 <br>
@@ -57,10 +63,6 @@ permalink: /research/
 
 [**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Heterogeneous.pdf) (with Xu Li, Guangyu Pei and Qian Xin) ***Journal of Economic Theory*** 2024, Volume 218, 105839
 
-<br>
-
-
-[**​Competition for Attention and News Quality**](/files/Competition.pdf) (with Wing Suen) ***American Economic Journal: Microeconomics*** 2023, 15 (3):1-32 (lead article)
 
 <br>
 
