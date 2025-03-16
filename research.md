@@ -11,7 +11,7 @@ permalink: /research/
 
 <br>
 
-[**The Scar of Political Conflict**](/files/housing-2025-March.pdf) (with Derek Huo) 
+[**The Scar of Political Conflict**](/files/housing-2025-March.pdf) (with Derek Huo) under review
 
 <br>
 
@@ -19,7 +19,7 @@ permalink: /research/
 
 <br>
 
-[**Cultural Traits and Behavior During Crisis: Evidence from Courier Daily Performance Records**](/files/Courier.pdf) (Yuyu Chen, Yuxi Xie and Qingxu Yang) 
+[**Cultural Traits and Behavior During Crisis: Evidence from Courier Daily Performance Records**](/files/Courier.pdf) (Yuyu Chen, Yuxi Xie and Qingxu Yang) under review
 
 <br>
 
@@ -57,7 +57,7 @@ permalink: /research/
 ## Information Friction
 <br>
 
-[**Trend, Cycle and Expectation Formation**](/files/Trend.pdf) (with Yicheng Liu) 
+[**Trend, Cycle and Expectation Formation**](/files/Trend.pdf) (with Yicheng Liu) under review
 
 <br>
 
