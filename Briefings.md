@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Media Coverage/
+permalink: /media/
 ---
 [**Between Radicalism and Moderation: Determining Leadership in Mass Movements**](https://politicalsciencenow.com/between-radicalism-and-moderation-determining-leadership-in-mass-movements/)
 
