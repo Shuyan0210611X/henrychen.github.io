@@ -4,6 +4,8 @@ url: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
+kramdown:
+  auto_ids: true
 
 tracking_id: #
 
