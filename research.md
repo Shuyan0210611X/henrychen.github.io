@@ -23,11 +23,11 @@ permalink: /research/
 
 <br>
 
-[**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/Cronies.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) 
+[**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/Cronies.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) under review
 
 <br>
 
-[**Women in the Courtroom: Technology and Justice​**](/files/resubmission-20241126.pdf) (with Yuyu Chen and Qingxu Yang) ***The Review of Economic Studies*** Accept 
+[**Women in the Courtroom: Technology and Justice​**](/files/resubmission-20241126.pdf) (with Yuyu Chen and Qingxu Yang) ***The Review of Economic Studies*** Accepted 
 
 <br>
 
