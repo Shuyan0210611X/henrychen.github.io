@@ -4,7 +4,10 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="/image/hengchen.jpeg">
+<img class="profile-picture" src="/image/hengchen-2025-april.jpg">
 
-I am an Associate Professor of Economics at the business school of the University of Hong Kong. My main research interests are political economy and information friction. My previous work on collective actions is at the intersection of these two areas, particularly focusing on the role of learning in economic and political crises. In my research, I have explored a variety of subjects within the realm of political economy, such as judicial decision-making and news markets. I have also developed a line of studies on expectation formation and attention allocation. Before moving to Hong Kong, I obtained my PhD in economics from the University of Zurich.
+I am an Associate Professor of Economics at the Business School of the University of Hong Kong. My research focuses on political economy, examining judicial decisions, news markets, economic reforms, and political crises. I have also developed a line of research on expectation formation and attention allocation. My methodological approach is driven by the research question, employing a variety of tools as needed, including causal inference, economic modeling, structural models, and machine learning. 
+
+My work has appeared in the Review of Economic Studies, American Political Science Review, American Economic Journal, Economic Journal, International Economic Review, and Journal of Economic Theory. Prior to joining Hong Kong, I obtained my PhD in Economics from the University of Zurich.
+
 
