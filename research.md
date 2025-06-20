@@ -5,9 +5,6 @@ permalink: /research/
 
 
 ## Political Economy
-<br>
-
-[**The Media and Foreign Powers: Does Market Access Matter for News Reporting?​**](/files/news-website-crackdown.pdf) (with Li Han) R&R
 
 <br>
 
@@ -28,6 +25,11 @@ permalink: /research/
 <br>
 
 [**Women in the Courtroom: Technology and Justice​**](/files/resubmission-20241126.pdf) (with Yuyu Chen and Qingxu Yang) ***Review of Economic Studies*** Accepted 
+
+<br>
+
+[**The Media and Foreign Powers: Does Market Access Matter for News Reporting?​**](/files/news-website-crackdown.pdf) (with Li Han) ***The Economic Journal*** Conditionally Accepted 
+
 
 <br>
 
