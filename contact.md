@@ -2,6 +2,10 @@
 layout: default
 permalink: /contact/
 ---
+
+<img class="full-width-image" src="/files/2025-june-profile-photo.png">
+
+
 ## Heng Chen
 
 Associate Professor of Economics
