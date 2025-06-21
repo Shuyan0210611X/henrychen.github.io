@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <img class="full-width-image" src="/files/2025-june-profile-photo.png">
 
 ## About Me
