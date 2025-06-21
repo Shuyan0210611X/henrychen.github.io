@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 
-<img class="full-width-image" src="/image/hengchen-2025-april.jpg">
+<img class="full-width-image" src="/image/profile_photo.png">
 
 ## About Me
 
