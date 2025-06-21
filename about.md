@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 
-<img class="full-width-image" src="./files/profile_photo.png">
+<img class="full-width-image" src="/files/profile_photo.png">
 
 ## About Me
 
