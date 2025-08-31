@@ -17,7 +17,7 @@ permalink: /research/
 
 <br>
 
-[**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/reform-2025-submission-march.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) under review
+[**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/reform-2025-submission-Aug.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) under review
 
 <br>
 
