@@ -8,7 +8,7 @@ permalink: /research/
 
 <br>
 
-[**The Scar of Political Conflict**](/files/housing-2025-Aug.pdf) (with Derek Huo) under review
+[**The Scar of Political Conflict**](/files/housing-2025-submission.pdf) (with Derek Huo) under review
 
 <br>
 
