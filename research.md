@@ -9,7 +9,7 @@ permalink: /research/
 <br>
 
 [**Political Trust Activation and Crisis: Evidence from
-Courier Daily Performance Records**](/files/housing-2025-submission.pdf) (with Yuyu Chen, Yuxi Xie and Qingxu Yang) under review
+Courier Daily Performance Records**](/files/JD-2025-Oct-18.pdf) (with Yuyu Chen, Yuxi Xie and Qingxu Yang) under review
 
 <br>
 
