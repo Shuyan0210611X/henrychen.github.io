@@ -8,6 +8,11 @@ permalink: /research/
 
 <br>
 
+[**Political Trust Activation and Crisis: Evidence from
+Courier Daily Performance Records**](/files/housing-2025-submission.pdf) (with Yuyu Chen, Yuxi Xie and Qingxu Yang) under review
+
+<br>
+
 [**The Scar of Political Conflict**](/files/housing-2025-submission.pdf) (with Derek Huo) under review
 
 <br>
