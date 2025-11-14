@@ -9,7 +9,7 @@ permalink: /research/
 <br>
 
 [**Olympic Success and Gender Equality: How Media
-Narratives Shape Social Norms**](/files/JD-2025-Oct-18.pdf) (with Yuyu Chen, Yuxi Xie and Qingxu Yang) under review
+Narratives Shape Social Norms**](/files/Olyimpic.pdf) (with Yuyu Chen, Yuxi Xie and Qingxu Yang) under review
 
 <br>
 
