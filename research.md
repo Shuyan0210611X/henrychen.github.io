@@ -27,7 +27,7 @@ Courier Daily Performance Records**](/files/JD-2025-Oct-18.pdf) (with Yuyu Chen,
 
 <br>
 
-[**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/reform-2025-submission-Aug.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) ***Revise and Resubmit at Journal of Public Economics*** 
+[**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/reform-2025-submission-Aug.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) ***Revise and Resubmit*** 
 
 <br>
 
@@ -66,7 +66,7 @@ Courier Daily Performance Records**](/files/JD-2025-Oct-18.pdf) (with Yuyu Chen,
 ## Information Friction
 <br>
 
-[**Expectation and Confusion: Evidence and Theory**](/files/trend2025june.pdf) (with Yicheng Liu) ***Revise and Resubmit at Journal of Economic Theory*** 
+[**Expectation and Confusion: Evidence and Theory**](/files/trend2025june.pdf) (with Yicheng Liu) ***Revise and Resubmit*** 
 
 <br>
 
