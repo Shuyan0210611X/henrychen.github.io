@@ -35,7 +35,7 @@ Courier Daily Performance Records**](/files/JD-2025-Oct-18.pdf) (with Yuyu Chen,
 
 <br>
 
-[**The Media and Foreign Powers: Does Market Access Matter for News Reporting?​**](/files/news-website-crackdown.pdf) (with Li Han) ***The Economic Journal*** Conditionally Accepted 
+[**The Media and Foreign Powers: Does Market Access Matter for News Reporting?​**](/files/news-website-crackdown.pdf) (with Li Han) ***The Economic Journal***  Forthcoming 
 
 
 <br>
