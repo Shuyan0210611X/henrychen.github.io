@@ -8,7 +8,7 @@ permalink: /research/
 
 <br>
 
-[**Robin Hood in a Field Experiment: Moral Framing, Discontent with Big Business, and Consumer Behavior**](/files/Olyimpic.pdf) (with Yuyu Chen, Jiayi Hou, Xiangyu Lu and Yanping Tu) 
+[**Robin Hood in a Field Experiment: Moral Framing, Discontent with Big Business, and Consumer Behavior**](/files/Robinhood.pdf) (with Yuyu Chen, Jiayi Hou, Xiangyu Lu and Yanping Tu) 
 
 <br>
 
