@@ -12,8 +12,8 @@ permalink: /research/
 
 <br>
 
-[**Olympic Success and Gender Equality: How Media
-Narratives Shape Social Norms**](/files/Olyimpic.pdf) (with Qingxu Yang) 
+[**Medals, Media, and Mindsets: How Women’s Olympic
+Competitiveness Advances Gender Equality**](/files/Olyimpic.pdf) (with Qingxu Yang) 
 
 <br>
 
