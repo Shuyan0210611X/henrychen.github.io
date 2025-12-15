@@ -6,9 +6,6 @@ permalink: /research/
 
 ## Political Economy
 
-<br>
-
-[**Robin Hood in a Field Experiment: Moral Framing, Discontent with Big Business, and Consumer Behavior**](/files/Robinhood.pdf) (with Yuyu Chen, Jiayi Hou, Xiangyu Lu and Yanping Tu) 
 
 <br>
 
@@ -27,6 +24,10 @@ Courier Daily Performance Records**](/files/JD-2025-Oct-18.pdf) (with Yuyu Chen,
 <br>
 
 [**Bottom-Up Institutional Change and Growth in China​**](/files/CLZ_Feb-2025.pdf) (with Bingjing Li and Xiaodong Zhu)
+
+<br>
+
+[**Robin Hood in a Field Experiment: Moral Framing, Discontent with Big Business, and Consumer Behavior**](/files/Robinhood.pdf) (with Yuyu Chen, Jiayi Hou, Xiangyu Lu and Yanping Tu) 
 
 
 <br>
