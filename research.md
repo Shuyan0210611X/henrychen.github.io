@@ -9,7 +9,7 @@ permalink: /research/
 
 <br>
 
-[**Medals, Media, and Mindsets: How Women’s Olympic
+[**Medals and Mindsets: How Women’s Olympic
 Competitiveness Advances Gender Equality**](/files/Olyimpic.pdf) (with Qingxu Yang) 
 
 <br>
