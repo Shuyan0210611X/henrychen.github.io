@@ -14,16 +14,19 @@ Competitiveness Advances Gender Equality**](/files/Olyimpic.pdf) (with Qingxu Ya
 
 <br>
 
-[**Political Trust Activation and Crisis: Evidence from
-Courier Daily Performance Records**](/files/JD-2025-Oct-18.pdf) (with Yuyu Chen, Yuxi Xie and Qingxu Yang) under review
-
-<br>
-
 [**The Scar of Political Conflict**](/files/housing-2025-submission.pdf) (with Derek Huo) under review
+
 
 <br>
 
 [**Bottom-Up Institutional Change and Growth in China​**](/files/CLZ_Feb-2025.pdf) (with Bingjing Li and Xiaodong Zhu)
+
+
+<br>
+
+[**Political Trust Activation and Crisis: Evidence from
+Courier Daily Performance Records**](/files/JD-2025-Oct-18.pdf) (with Yuyu Chen, Yuxi Xie and Qingxu Yang) under review
+
 
 <br>
 
