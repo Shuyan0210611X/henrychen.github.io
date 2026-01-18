@@ -74,7 +74,7 @@ Courier Daily Performance Records**](/files/JD-2025-Oct-18.pdf) (with Yuyu Chen,
 ## Information Friction
 <br>
 
-[**Expectation and Confusion: Evidence and Theory**](/files/trend20260102.pdf.pdf) (with Yicheng Liu) ***Revise and Resubmit*** 
+[**Expectation and Confusion: Evidence and Theory**](/files/trend20260102.pdf) (with Yicheng Liu) ***Revise and Resubmit*** 
 
 <br>
 
