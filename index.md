@@ -15,7 +15,7 @@ My work has been published in the <em>Review of Economic Studies</em>, <em>Ameri
 
 <p>
   On the occasion of the New Year of 2026, I had the pleasure of delivering a 30‑minute keynote address to an audience of more than 500 entrepreneurs. 
-  The conference brought together business leaders and startup founders to reflect on the turbulence and transformation of the past year and to share perspectives on navigating the year ahead.
+  The conference brought together business leaders and startup founders to reflect on the turbulence of the past year and to share perspectives on navigating the year ahead.
 </p>
 
 <p>
