@@ -34,19 +34,6 @@ My work has been published in the <em>Review of Economic Studies</em>, <em>Ameri
 </p>
 
 <p>
-  My talk, titled <em>“Staying Optimistic Amid Uncertainty,”</em> explored how to find direction and resilience in a business world marked by global unpredictability. 
-  <a 
-    href="https://www.bilibili.com/video/BV1gek4BPEhe/?vd_source=a6c8f0aa63f823b9ae0b9a87bf370ecf" 
-    target="_blank" 
-    rel="noopener noreferrer"
-    style="color:#0073e6; text-decoration:none; font-weight:500;"
-    onmouseover="this.style.textDecoration='underline';"
-    onmouseout="this.style.textDecoration='none';">
-    Click here to watch the full version of the talk.
-  </a>
-</p>
-
-<p>
   In early December 2025, I was invited as one of the featured speakers at the inaugural conference of the IMF Shanghai Center. 
   My presentation drew on recent research examining the dynamics of economic policymaking and reform in China. 
   <a 
