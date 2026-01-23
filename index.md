@@ -16,8 +16,6 @@ My work has been published in the <em>Review of Economic Studies</em>, <em>Ameri
 <p>
   
 <h2 style="font-weight: 700;">Recent Highlights</h2>
-
-
   On the occasion of the New Year of 2026, I had the pleasure of delivering a 30‑minute keynote address to an audience of more than 500 entrepreneurs. 
   The conference brought together business leaders and startup founders to reflect on the turbulence of the past year and to share perspectives on navigating the year ahead.
 </p>
@@ -32,6 +30,20 @@ My work has been published in the <em>Review of Economic Studies</em>, <em>Ameri
     onmouseover="this.style.textDecoration='underline';"
     onmouseout="this.style.textDecoration='none';">
     Click here to watch the full version of the talk.
+  </a>
+</p>
+
+<p>
+  In early December 2025, I was invited as one of the featured speakers at the inaugural conference of the IMF Shanghai Center. 
+  My presentation drew on recent research examining the dynamics of economic policymaking and reform in China. 
+  <a 
+    href="/files/imf.pdf" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    style="color:#0073e6; text-decoration:none; font-weight:500;"
+    onmouseover="this.style.textDecoration='underline';"
+    onmouseout="this.style.textDecoration='none';">
+    Click here to view the presentation (PDF).
   </a>
 </p>
 
