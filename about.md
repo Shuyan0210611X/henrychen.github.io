@@ -18,7 +18,7 @@ My work has been published in the <em>Review of Economic Studies</em>, <em>Ameri
 <a href="/files/reform-2025-submission-Aug.pdf">
   <strong>Cronies in the Courtroom: Political Interference and Judicial Reforms</strong>
 </a>
-has been accepted by <em><strong>Journal of Public Economics</strong></em>, March 2026.
+has been accepted by <em><strong>Journal of Public Economics</strong></em>, March 2026.</p>
 
 
 <h2 style="font-weight: 700;">Recent Highlights</h2>
