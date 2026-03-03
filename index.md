@@ -14,6 +14,13 @@ I am an Associate Professor of Economics at the Business School of the Universit
 My work has been published in the <em>Review of Economic Studies</em>, <em>American Political Science Review</em>, <em>American Economic Journal</em>, <em>Economic Journal</em>, <em>International Economic Review</em>, and <em>Journal of Economic Theory</em>. Prior to joining the University of Hong Kong, I obtained my PhD in Economics from the University of Zurich.
 
 <p>
+
+<h2 style="font-weight: 700;">News </h2>
+<a href="/files/reform-2025-submission-Aug.pdf">
+  <strong>Cronies in the Courtroom: Political Interference and Judicial Reforms</strong>
+</a>
+has been accepted by <em><strong>Journal of Public Economics</strong></em>, March 2026.</p>
+
   
 <h2 style="font-weight: 700;">Recent Highlights</h2>
   On the occasion of the New Year of 2026, I had the pleasure of delivering a 30‑minute keynote address to an audience of more than 500 entrepreneurs. 
