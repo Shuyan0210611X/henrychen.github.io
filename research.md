@@ -35,7 +35,7 @@ Courier Daily Performance Records**](/files/JD-2025-Oct-18.pdf) (with Yuyu Chen,
 
 <br>
 
-[**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/reform-2025-submission-Aug.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) ***Journal of Public Economics*** Accepted 
+[**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/cronies.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) ***Journal of Public Economics*** Accepted 
 
 <br>
 
