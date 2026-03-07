@@ -10,7 +10,7 @@ permalink: /research/
 <br>
 
 [**Medals and Mindsets: How Women’s Olympic
-Competitiveness Advances Gender Equality**](/files/Olyimpic.pdf) (with Qingxu Yang) 
+Competitiveness Advances Gender Equality**](/files/Olyimpic.pdf) (with Qingxu Yang) under review
 
 <br>
 
