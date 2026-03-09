@@ -3,28 +3,92 @@ layout: default
 permalink: /research/
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=DM+Mono:wght@400&display=swap" rel="stylesheet">
 
-<style>
-  :root {
-    --ink: #1a1714;
-    --paper: #f7f4ee;
-    --accent: #8b3a2a;
-    --muted: #8a8278;
-    --rule: #d4cfc6;
-  }
-  body { background: var(--paper); color: var(--ink); font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.35rem; line-height: 1.75; }
-  h2 { font-size: 1.15rem; font-weight: 700; margin: 2.2em 0 0.8em; padding-bottom: 0.4em; border-bottom: 1px solid var(--rule); }
-  .papers { list-style: none; padding: 0; margin: 0; }
-  .paper { display: grid; grid-template-columns: 26px 1fr; gap: 0 12px; padding: 8px 0; align-items: baseline; }
-  .num { font-family: 'DM Mono', monospace; font-size: 0.65rem; color: var(--muted); text-align: right; }
-  a.title { color: #8b3a2a; font-weight: 600; text-decoration: none; border-bottom: 1px solid transparent; transition: border-color 0.2s; }
-  a.title:hover { border-bottom-color: #8b3a2a; }
-  .journal { font-style: italic; font-weight: 700; }
-</style>
+## Political Economy
 
-<h2>Political Economy</h2>
-<ul class="papers">
-  <li class="paper"><span class="num">1</span><div><a href="/files/Olyimpic.pdf" class="title">Medals and Mindsets: How Women's Olympic Competitiveness Advances Gender Equality</a> (with Qingxu Yang) under review</div></li>
-  ... (rest of entries)
-</ul>
+
+<br>
+
+[**Medals and Mindsets: How Women’s Olympic
+Competitiveness Advances Gender Equality**](/files/Olyimpic.pdf) (with Qingxu Yang) under review
+
+<br>
+
+[**The Scar of Political Conflict**](/files/housing-2025-submission.pdf) (with Derek Huo) under review
+
+
+<br>
+
+[**Bottom-Up Institutional Change and Growth in China**](/files/CLZ_Feb-2025.pdf) (with Bingjing Li and Xiaodong Zhu)
+
+
+<br>
+
+[**Political Trust Activation and Crisis: Evidence from
+Courier Daily Performance Records**](/files/JD-2025-Oct-18.pdf) (with Yuyu Chen, Yuxi Xie and Qingxu Yang) under review
+
+
+<br>
+
+[**Robin Hood in a Field Experiment: Moral Framing, Discontent with Big Business, and Consumer Behavior**](/files/Robinhood.pdf) (with Yuyu Chen, Jiayi Hou, Xiangyu Lu and Yanping Tu) under review
+
+
+<br>
+
+[**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/cronies.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) ***Journal of Public Economics*** Accepted 
+
+<br>
+
+[**Women in the Courtroom: Technology and Justice**](/files/resubmission-20241126.pdf) (with Yuyu Chen and Qingxu Yang) ***Review of Economic Studies*** Forthcoming 
+
+<br>
+
+[**The Media and Foreign Powers: Does Market Access Matter for News Reporting?**](/files/news-website-crackdown.pdf) (with Li Han) ***The Economic Journal***  Forthcoming 
+
+
+<br>
+
+
+[**Competition for Attention and News Quality**](/files/Competition.pdf) (with Wing Suen) ***American Economic Journal: Microeconomics*** 2023, 15 (3):1-32 (lead article)
+
+
+<br>
+
+[**Radicalism in Mass Movements: Asymmetric Information and Endogenous Leadership**](/files/Radicalism.pdf) (with Wing Suen) ***American Political Science Review*** 2021, 115, 1, 286-306
+
+<br>
+
+[**Aspiring for Change: A Theory of Middle Class Activism**](/files/Aspiring.pdf) (with Wing Suen)  ***The Economic Journal*** 2017, 127:1318-1347
+
+<br>
+
+[**The Power of Whispers: A Theory of Rumor, Communication and Revolution**](/files/Thepower.pdf) (with Yang Lu and Wing Suen) ***International Economic Review*** 2016, 57(No.1):89-116
+
+<br>
+
+[**Falling Dominoes: A Theory of Rare Events and Crisis Contagion**](/files/Falling.pdf) (with Wing Suen)  ***American Economic Journal: Microeconomics*** 2016, 8(1):228-55
+
+
+<br>
+
+## Information Friction
+<br>
+
+[**Expectation and Confusion: Evidence and Theory**](/files/trend20260102.pdf) (with Yicheng Liu) ***Revise and Resubmit*** 
+
+<br>
+
+[**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Heterogeneous.pdf) (with Xu Li, Guangyu Pei and Qian Xin) ***Journal of Economic Theory*** 2024, Volume 218, 105839
+
+
+<br>
+
+[**Attention Misallocation, Social Welfare and Policy Implications**](/files/Attention.pdf) (with Yulei Luo and Guangyu Pei)  ***Journal of Economic Dynamics and Control*** 2015, 59(Oct):37-57
+
+<br>
+
+
+
+
+
+![Uploading image.png…]()
