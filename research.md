@@ -28,9 +28,9 @@ h2 {
   margin: 0;
 }
 .paper {
-  display: grid;
-  grid-template-columns: 26px 1fr;
-  gap: 0 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
   padding: 8px 0;
   align-items: baseline;
 }
@@ -38,7 +38,9 @@ h2 {
   font-family: 'DM Mono', monospace;
   font-size: 0.75rem;
   color: #8a8278;
+  min-width: 24px;
   text-align: right;
+  flex-shrink: 0;
 }
 a.title {
   color: #8b3a2a;
