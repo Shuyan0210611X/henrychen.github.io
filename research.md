@@ -25,6 +25,7 @@ permalink: /research/
 1. [**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Heterogeneous.pdf) (with Xu Li, Guangyu Pei, and Qian Xin) — *Journal of Economic Theory*, 2024, 218: 105839
 1. [**Attention Misallocation, Social Welfare and Policy Implications**](/files/Attention.pdf) (with Yulei Luo and Guangyu Pei) — *Journal of Economic Dynamics and Control*, 2015, 59(Oct): 37–57
 
+
 /* Force normal ordered list numbers like 1. 2. 3. (not [1]) */
 .research-list {
   list-style: decimal outside !important;
