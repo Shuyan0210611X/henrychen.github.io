@@ -1,3 +1,17 @@
 ---
 ---
 @import "style";
+
+.research-list ol {
+  list-style: decimal !important;
+  margin-left: 1.4rem;
+  padding-left: 0;
+}
+
+.research-list ol li {
+  display: list-item !important;
+}
+
+.research-list ol li::before {
+  content: none !important;
+}
