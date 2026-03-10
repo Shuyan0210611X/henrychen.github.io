@@ -12,7 +12,8 @@ Competitiveness Advances Gender Equality**](/files/Olyimpic.pdf) (with Qingxu Ya
 
 <br>
 
-**2.** [**The Scar of Political Conflict**](/files/housing-2025-submission.pdf) (with Derek Huo) under review
+**2.** [**The Scar of Political Conflict: Evidence from Tear Gas
+Deployments in Hong Kong**](/files/housing-2025-submission.pdf) (with Derek Huo) under review
 
 <br>
 
