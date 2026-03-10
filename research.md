@@ -24,3 +24,21 @@ permalink: /research/
 1. [**Expectation and Confusion: Evidence and Theory**](/files/trend20260102.pdf) (with Yicheng Liu) — *Revise and Resubmit*
 1. [**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Heterogeneous.pdf) (with Xu Li, Guangyu Pei, and Qian Xin) — *Journal of Economic Theory*, 2024, 218: 105839
 1. [**Attention Misallocation, Social Welfare and Policy Implications**](/files/Attention.pdf) (with Yulei Luo and Guangyu Pei) — *Journal of Economic Dynamics and Control*, 2015, 59(Oct): 37–57
+
+/* Force normal ordered list numbers like 1. 2. 3. (not [1]) */
+.research-list {
+  list-style: decimal outside !important;
+  margin-left: 1.4rem !important;
+  padding-left: 0 !important;
+}
+
+.research-list > li {
+  display: list-item !important;
+  margin: 0.45rem 0 !important;
+  line-height: 1.55 !important;
+}
+
+/* disable theme-generated bracket numbers */
+.research-list > li::before {
+  content: none !important;
+}
