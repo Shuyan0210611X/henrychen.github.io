@@ -18,28 +18,11 @@ permalink: /research/
 1. [**Aspiring for Change: A Theory of Middle Class Activism**](/files/Aspiring.pdf) (with Wing Suen) — *The Economic Journal*, 2017, 127: 1318–1347
 1. [**The Power of Whispers: A Theory of Rumor, Communication and Revolution**](/files/Thepower.pdf) (with Yang Lu and Wing Suen) — *International Economic Review*, 2016, 57(1): 89–116
 1. [**Falling Dominoes: A Theory of Rare Events and Crisis Contagion**](/files/Falling.pdf) (with Wing Suen) — *American Economic Journal: Microeconomics*, 2016, 8(1): 228–255
+{: .research-list}
 
 ## Information Friction
 
 1. [**Expectation and Confusion: Evidence and Theory**](/files/trend20260102.pdf) (with Yicheng Liu) — *Revise and Resubmit*
 1. [**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Heterogeneous.pdf) (with Xu Li, Guangyu Pei, and Qian Xin) — *Journal of Economic Theory*, 2024, 218: 105839
 1. [**Attention Misallocation, Social Welfare and Policy Implications**](/files/Attention.pdf) (with Yulei Luo and Guangyu Pei) — *Journal of Economic Dynamics and Control*, 2015, 59(Oct): 37–57
-
-
-/* Force normal ordered list numbers like 1. 2. 3. (not [1]) */
-.research-list {
-  list-style: decimal outside !important;
-  margin-left: 1.4rem !important;
-  padding-left: 0 !important;
-}
-
-.research-list > li {
-  display: list-item !important;
-  margin: 0.45rem 0 !important;
-  line-height: 1.55 !important;
-}
-
-/* disable theme-generated bracket numbers */
-.research-list > li::before {
-  content: none !important;
-}
+{: .research-list}
