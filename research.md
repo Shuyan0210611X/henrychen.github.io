@@ -3,79 +3,24 @@ layout: default
 permalink: /research/
 ---
 
-<style>
-  .research-page {
-    max-width: 900px;
-  }
+## Political Economy
 
-  .research-page h2 {
-    margin-top: 1.2rem;
-    margin-bottom: 0.7rem;
-    line-height: 1.3;
-  }
+1. [**Medals and Mindsets: How Women’s Olympic Competitiveness Advances Gender Equality**](/files/Olyimpic.pdf) (with Qingxu Yang) — *Under review*
+1. [**The Scar of Political Conflict**](/files/housing-2025-submission.pdf) (with Derek Huo) — *Under review*
+1. [**Bottom-Up Institutional Change and Growth in China**](/files/CLZ_Feb-2025.pdf) (with Bingjing Li and Xiaodong Zhu)
+1. [**Political Trust Activation and Crisis: Evidence from Courier Daily Performance Records**](/files/JD-2025-Oct-18.pdf) (with Yuyu Chen, Yuxi Xie, and Qingxu Yang) — *Under review*
+1. [**Robin Hood in a Field Experiment: Moral Framing, Discontent with Big Business, and Consumer Behavior**](/files/Robinhood.pdf) (with Yuyu Chen, Jiayi Hou, Xiangyu Lu, and Yanping Tu) — *Under review*
+1. [**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/cronies.pdf) (with Hongbin Cai, Yuyu Chen, and Sisi Zhang) — *Journal of Public Economics*, *Accepted*
+1. [**Women in the Courtroom: Technology and Justice**](/files/resubmission-20241126.pdf) (with Yuyu Chen and Qingxu Yang) — *Review of Economic Studies*, *Forthcoming*
+1. [**The Media and Foreign Powers: Does Market Access Matter for News Reporting?**](/files/news-website-crackdown.pdf) (with Li Han) — *The Economic Journal*, *Forthcoming*
+1. [**Competition for Attention and News Quality**](/files/Competition.pdf) (with Wing Suen) — *American Economic Journal: Microeconomics*, 2023, 15(3): 1–32 *(lead article)*
+1. [**Radicalism in Mass Movements: Asymmetric Information and Endogenous Leadership**](/files/Radicalism.pdf) (with Wing Suen) — *American Political Science Review*, 2021, 115(1): 286–306
+1. [**Aspiring for Change: A Theory of Middle Class Activism**](/files/Aspiring.pdf) (with Wing Suen) — *The Economic Journal*, 2017, 127: 1318–1347
+1. [**The Power of Whispers: A Theory of Rumor, Communication and Revolution**](/files/Thepower.pdf) (with Yang Lu and Wing Suen) — *International Economic Review*, 2016, 57(1): 89–116
+1. [**Falling Dominoes: A Theory of Rare Events and Crisis Contagion**](/files/Falling.pdf) (with Wing Suen) — *American Economic Journal: Microeconomics*, 2016, 8(1): 228–255
 
-  .research-list {
-    margin: 0 0 1.2rem 1.4rem;
-    padding: 0;
-  }
+## Information Friction
 
-  .research-list li {
-    margin: 0 0 0.6rem 0;
-    padding-left: 0.2rem;
-    line-height: 1.55;
-  }
-
-  .research-list li::marker {
-    font-variant-numeric: tabular-nums;
-    font-weight: 600;
-  }
-
-  .research-list a {
-    text-decoration: none;
-  }
-
-  .research-list a:hover {
-    text-decoration: underline;
-  }
-
-  @media (max-width: 640px) {
-    .research-page {
-      max-width: 100%;
-    }
-
-    .research-list {
-      margin-left: 1.2rem;
-    }
-
-    .research-list li {
-      margin-bottom: 0.75rem;
-      line-height: 1.6;
-    }
-  }
-</style>
-
-<div class="research-page">
-  <h2>Political Economy</h2>
-  <ol class="research-list">
-    <li><a href="/files/Olyimpic.pdf"><strong>Medals and Mindsets: How Women’s Olympic Competitiveness Advances Gender Equality</strong></a> (with Qingxu Yang) — <em>Under review</em></li>
-    <li><a href="/files/housing-2025-submission.pdf"><strong>The Scar of Political Conflict</strong></a> (with Derek Huo) — <em>Under review</em></li>
-    <li><a href="/files/CLZ_Feb-2025.pdf"><strong>Bottom-Up Institutional Change and Growth in China</strong></a> (with Bingjing Li and Xiaodong Zhu)</li>
-    <li><a href="/files/JD-2025-Oct-18.pdf"><strong>Political Trust Activation and Crisis: Evidence from Courier Daily Performance Records</strong></a> (with Yuyu Chen, Yuxi Xie, and Qingxu Yang) — <em>Under review</em></li>
-    <li><a href="/files/Robinhood.pdf"><strong>Robin Hood in a Field Experiment: Moral Framing, Discontent with Big Business, and Consumer Behavior</strong></a> (with Yuyu Chen, Jiayi Hou, Xiangyu Lu, and Yanping Tu) — <em>Under review</em></li>
-    <li><a href="/files/cronies.pdf"><strong>Cronies in the Courtroom: Political Interference and Judicial Reforms</strong></a> (with Hongbin Cai, Yuyu Chen, and Sisi Zhang) — <em>Journal of Public Economics</em>, <em>Accepted</em></li>
-    <li><a href="/files/resubmission-20241126.pdf"><strong>Women in the Courtroom: Technology and Justice</strong></a> (with Yuyu Chen and Qingxu Yang) — <em>Review of Economic Studies</em>, <em>Forthcoming</em></li>
-    <li><a href="/files/news-website-crackdown.pdf"><strong>The Media and Foreign Powers: Does Market Access Matter for News Reporting?</strong></a> (with Li Han) — <em>The Economic Journal</em>, <em>Forthcoming</em></li>
-    <li><a href="/files/Competition.pdf"><strong>Competition for Attention and News Quality</strong></a> (with Wing Suen) — <em>American Economic Journal: Microeconomics</em>, 2023, 15(3): 1–32 (lead article)</li>
-    <li><a href="/files/Radicalism.pdf"><strong>Radicalism in Mass Movements: Asymmetric Information and Endogenous Leadership</strong></a> (with Wing Suen) — <em>American Political Science Review</em>, 2021, 115(1): 286–306</li>
-    <li><a href="/files/Aspiring.pdf"><strong>Aspiring for Change: A Theory of Middle Class Activism</strong></a> (with Wing Suen) — <em>The Economic Journal</em>, 2017, 127: 1318–1347</li>
-    <li><a href="/files/Thepower.pdf"><strong>The Power of Whispers: A Theory of Rumor, Communication and Revolution</strong></a> (with Yang Lu and Wing Suen) — <em>International Economic Review</em>, 2016, 57(1): 89–116</li>
-    <li><a href="/files/Falling.pdf"><strong>Falling Dominoes: A Theory of Rare Events and Crisis Contagion</strong></a> (with Wing Suen) — <em>American Economic Journal: Microeconomics</em>, 2016, 8(1): 228–255</li>
-  </ol>
-
-  <h2>Information Friction</h2>
-  <ol class="research-list">
-    <li><a href="/files/trend20260102.pdf"><strong>Expectation and Confusion: Evidence and Theory</strong></a> (with Yicheng Liu) — <em>Revise and Resubmit</em></li>
-    <li><a href="/files/Heterogeneous.pdf"><strong>Heterogeneous Overreaction in Expectation Formation: Evidence and Theory</strong></a> (with Xu Li, Guangyu Pei, and Qian Xin) — <em>Journal of Economic Theory</em>, 2024, 218: 105839</li>
-    <li><a href="/files/Attention.pdf"><strong>Attention Misallocation, Social Welfare and Policy Implications</strong></a> (with Yulei Luo and Guangyu Pei) — <em>Journal of Economic Dynamics and Control</em>, 2015, 59(Oct): 37–57</li>
-  </ol>
-</div>
+1. [**Expectation and Confusion: Evidence and Theory**](/files/trend20260102.pdf) (with Yicheng Liu) — *Revise and Resubmit*
+1. [**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Heterogeneous.pdf) (with Xu Li, Guangyu Pei, and Qian Xin) — *Journal of Economic Theory*, 2024, 218: 105839
+1. [**Attention Misallocation, Social Welfare and Policy Implications**](/files/Attention.pdf) (with Yulei Luo and Guangyu Pei) — *Journal of Economic Dynamics and Control*, 2015, 59(Oct): 37–57
