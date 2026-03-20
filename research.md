@@ -7,12 +7,16 @@ permalink: /research/
 
 **1.** [**Medals and Mindsets: How Women's Olympic Competitiveness Advances Gender Equality**](/files/Olyimpic.pdf) (with Qingxu Yang) under review
 <br>
+
 **2.** [**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/housing-2025-submission.pdf) (with Derek Huo) under review
 <br>
+
 **3.** [**Bottom-Up Institutional Change and Growth in China**](/files/CLZ_Feb-2025.pdf) (with Bingjing Li and Xiaodong Zhu)
 <br>
+
 **4.** [**Robin Hood in a Field Experiment: Moral Framing, Discontent with Big Business, and Consumer Behavior**](/files/Robinhood.pdf) (with Yuyu Chen, Jiayi Hou, Xiangyu Lu and Yanping Tu) under review
 <br>
+
 **5.** [**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/cronies.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) ***Journal of Public Economics*** Accepted
 <br>
 **6.** [**Women in the Courtroom: Technology and Justice**](/files/resubmission-20241126.pdf) (with Yuyu Chen and Qingxu Yang) ***Review of Economic Studies*** Forthcoming
