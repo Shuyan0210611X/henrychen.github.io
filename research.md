@@ -17,7 +17,7 @@ permalink: /research/
 **4.** [**Robin Hood in a Field Experiment: Moral Framing, Discontent with Big Business, and Consumer Behavior**](/files/Robinhood.pdf) (with Yuyu Chen, Jiayi Hou, Xiangyu Lu and Yanping Tu) under review
 <br>
 
-**5.** [**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/cronies.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) ***Journal of Public Economics*** Accepted
+**5.** [**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/cronies.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) ***Journal of Public Economics*** Forthcoming
 <br>
 
 **6.** [**Women in the Courtroom: Technology and Justice**](/files/resubmission-20241126.pdf) (with Yuyu Chen and Qingxu Yang) ***Review of Economic Studies*** Forthcoming
