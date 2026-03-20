@@ -7,8 +7,6 @@ permalink: /research/
 
 **1.** [**Medals and Mindsets: How Women's Olympic Competitiveness Advances Gender Equality**](/files/Olyimpic.pdf) (with Qingxu Yang) under review
 <br>
-
-
 **2.** [**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/housing-2025-submission.pdf) (with Derek Huo) under review
 <br>
 **3.** [**Bottom-Up Institutional Change and Growth in China**](/files/CLZ_Feb-2025.pdf) (with Bingjing Li and Xiaodong Zhu)
@@ -33,6 +31,7 @@ permalink: /research/
 <br>
 ## Information Friction
 <br>
+
 **1.** [**Expectation and Confusion: Evidence and Theory**](/files/trend20260102.pdf) (with Yicheng Liu) ***Revise and Resubmit***
 <br>
 **2.** [**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Heterogeneous.pdf) (with Xu Li, Guangyu Pei and Qian Xin) ***Journal of Economic Theory*** 2024, Volume 218, 105839
