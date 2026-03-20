@@ -6,6 +6,8 @@ permalink: /research/
 <br>
 **1.** [**Medals and Mindsets: How Women's Olympic Competitiveness Advances Gender Equality**](/files/Olyimpic.pdf) (with Qingxu Yang) under review
 <br>
+
+
 **2.** [**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/housing-2025-submission.pdf) (with Derek Huo) under review
 <br>
 **3.** [**Bottom-Up Institutional Change and Growth in China**](/files/CLZ_Feb-2025.pdf) (with Bingjing Li and Xiaodong Zhu)
