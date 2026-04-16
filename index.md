@@ -31,9 +31,6 @@ has been accepted for publication in the
 <h2 style="font-weight: 700;">Recent Highlights</h2>
   On the occasion of the New Year of 2026, I had the pleasure of delivering a 30‑minute keynote address to an audience of more than 500 entrepreneurs. 
   The conference brought together business leaders and startup founders to reflect on the turbulence of the past year and to share perspectives on navigating the year ahead.
-</p>
-
-<p>
   My talk, titled <em>“Staying Optimistic Amid Uncertainty,”</em> explored how to find direction and resilience in a business world marked by global unpredictability. 
   <a 
     href="https://www.bilibili.com/video/BV1gek4BPEhe/?vd_source=a6c8f0aa63f823b9ae0b9a87bf370ecf" 
