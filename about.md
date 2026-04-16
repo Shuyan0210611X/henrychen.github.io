@@ -40,8 +40,7 @@ has been accepted for publication in the
     onmouseover="this.style.textDecoration='underline';"
     onmouseout="this.style.textDecoration='none';">
     Click here to watch the full version of the talk.
-  </a>
-</p>
+  </a></p>
 
 <p>
   In early December 2025, I was invited as one of the featured speakers at the inaugural conference of the IMF Shanghai Center. 
