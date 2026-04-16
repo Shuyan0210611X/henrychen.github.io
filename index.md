@@ -20,6 +20,10 @@ My work has been published in the <em>Review of Economic Studies</em>, <em>Ameri
 
 [April 2026] I am honored to accept a special-term university-level appointment as Guanghua Chair Professor (光华讲座教授) at the Southwestern University of Finance and Economics (SWUFE), Chengdu, China, for the period 2026–2029.</p>
 
+<p>[March 2026] I am deeply honored to be the inaugural recipient of the 
+<strong>Faculty Service Award</strong> 
+for Academic Year 2024–25.</p>
+
 <p>[March 2026] I am pleased to share that my recent paper, 
 <a href="/files/reform-2025-submission-Aug.pdf">
   <strong>Cronies in the Courtroom: Political Interference and Judicial Reforms</strong>
