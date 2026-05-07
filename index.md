@@ -26,7 +26,7 @@ coauthored with my PhD student Yicheng Liu, has been accepted for publication in
 <em><strong>Journal of Economic Theory</strong></em>.
 </p>
 
-<p>[April 2026] I am privileged to accept a special-term university-level appointment as Guanghua Chair Professor (光华讲座教授) at the Southwestern University of Finance and Economics (SWUFE), Chengdu, China, for the period 2026–2029.</p>
+<p>[April 2026] I am privileged to accept a special-term university-level appointment as <strong>Guanghua Chair Professor (光华讲座教授)<strong> at the Southwestern University of Finance and Economics (SWUFE), Chengdu, China, for the period 2026–2029.</p>
 
 <p>[March 2026] I am deeply honored to be the inaugural recipient of the 
 <strong>Faculty Service Award</strong> 
