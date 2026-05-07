@@ -18,7 +18,15 @@ My work has been published in the <em>Review of Economic Studies</em>, <em>Ameri
 
 <h2 style="font-weight: 700;">News </h2>
 
-[April 2026] I am honored to accept a special-term university-level appointment as Guanghua Chair Professor (光华讲座教授) at the Southwestern University of Finance and Economics (SWUFE), Chengdu, China, for the period 2026–2029.</p>
+<p>[May 2026] I am delighted to announce that my recent paper, 
+<a href="/files/trend20260102.pdf">
+  <strong>Expectation and Confusion: Evidence and Theory</strong>
+</a>, 
+coauthored with my PhD student Yicheng Liu, has been accepted for publication in the 
+<em><strong>Journal of Economic Theory</strong></em>.
+</p>
+
+<p>[April 2026] I am privileged to accept a special-term university-level appointment as Guanghua Chair Professor (光华讲座教授) at the Southwestern University of Finance and Economics (SWUFE), Chengdu, China, for the period 2026–2029.</p>
 
 <p>[March 2026] I am deeply honored to be the inaugural recipient of the 
 <strong>Faculty Service Award</strong> 
