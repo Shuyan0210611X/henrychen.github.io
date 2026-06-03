@@ -43,10 +43,16 @@ has been accepted for publication in the
 
 
 <h2 style="font-weight: 700;">Recent Highlights</h2>
-
-  On the occasion of the New Year of 2026, I had the pleasure of delivering a 30‑minute keynote address to an audience of more than 500 entrepreneurs. 
+<p>
+  <strong>Invited Seminar at Sveriges Riksbank (Swedish Central Bank), Stockholm (May 2026).</strong>
+  In May 2026, I was invited to deliver a research seminar at Sveriges Riksbank in Stockholm, one of the world's most influential central banks.
+  My talk presented recent findings on the dynamics of economic policymaking in China, drawing on discussions with central bank economists and researchers.
+</p>
+<p>
+  <strong>Keynote Address at New Year Entrepreneurship Conference (January 2026).</strong>
+  On the occasion of the New Year of 2026, I had the pleasure of delivering a 30‑minute keynote address to an audience of more than 500 entrepreneurs.
   The conference brought together business leaders and startup founders to reflect on the turbulence of the past year and to share perspectives on navigating the year ahead.
-  My talk, titled <em>“Staying Optimistic Amid Uncertainty,”</em> explored how to find direction and resilience in a business world marked by global unpredictability. 
+  My talk, titled <em>"Staying Optimistic Amid Uncertainty,"</em> explored how to find direction and resilience in a business world marked by global unpredictability.
   <a 
     href="https://www.bilibili.com/video/BV1gek4BPEhe/?vd_source=a6c8f0aa63f823b9ae0b9a87bf370ecf" 
     target="_blank" 
@@ -55,11 +61,12 @@ has been accepted for publication in the
     onmouseover="this.style.textDecoration='underline';"
     onmouseout="this.style.textDecoration='none';">
     Click here to watch the full version of the talk.
-  </a></p>
-
+  </a>
+</p>
 <p>
-  In early December 2025, I was invited as one of the featured speakers at the inaugural conference of the IMF Shanghai Center. 
-  My presentation drew on recent research examining the dynamics of economic policymaking and reform in China. 
+  <strong>Featured Speaker at the Inaugural IMF Shanghai Center Conference (November 2025).</strong>
+  In November 2025, I was invited as one of the featured speakers at the inaugural conference of the IMF Shanghai Center.
+  My presentation drew on recent research examining the dynamics of economic policymaking and reform in China.
   <a 
     href="/files/imf.pdf" 
     target="_blank" 
