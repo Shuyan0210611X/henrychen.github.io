@@ -14,7 +14,8 @@ permalink: /research/
 **3.** [**Bottom-Up Institutional Change and Growth in China**](/files/CLZ_Feb-2025.pdf) (with Bingjing Li and Xiaodong Zhu)
 <br>
 
-**4.** [**Robin Hood in a Field Experiment: Moral Framing, Discontent with Big Business, and Consumer Behavior**](/files/Robinhood.pdf) (with Yuyu Chen, Jiayi Hou, Xiangyu Lu and Yanping Tu) under review
+**4.** [**Pageants and the President: The Liability of Celebrity
+Politicians**](/files/miss-usa-submission-June.pdf) (with Yang Xu) under review
 <br>
 
 **5.** [**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/cronies.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) ***Journal of Public Economics*** Forthcoming
