@@ -8,15 +8,17 @@ permalink: /research/
 **1.** [**Medals and Mindsets: How Women's Olympic Competitiveness Advances Gender Equality**](/files/Olyimpic.pdf) (with Qingxu Yang) under review [**Slides**](/files/Olyimpic-slide.pdf) 
 <br>
 
-**2.** [**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/housing-2025-submission.pdf) (with Derek Huo) under review
-<br>
-
-**3.** [**Bottom-Up Institutional Change and Growth in China**](/files/CLZ_Feb-2025.pdf) (with Bingjing Li and Xiaodong Zhu)
-<br>
-
-**4.** [**Pageants and the President: The Liability of Celebrity
+**2.** [**Pageants and the President: The Liability of Celebrity
 Politicians**](/files/miss-usa-submission-June.pdf) (with Yang Xu) under review
 <br>
+
+**3.** [**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/housing-2025-submission.pdf) (with Derek Huo) under review
+<br>
+
+**4.** [**Bottom-Up Institutional Change and Growth in China**](/files/CLZ_Feb-2025.pdf) (with Bingjing Li and Xiaodong Zhu)
+<br>
+
+
 
 **5.** [**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/cronies.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) ***Journal of Public Economics*** Forthcoming
 <br>
