@@ -48,10 +48,10 @@ Politicians**](/files/miss-usa-submission-June.pdf) (with Yang Xu) under review
 ## Information Friction
 <br>
 
-**1.** [**Expectation and Confusion: Evidence and Theory**](/files/trend20260102.pdf) (with Yicheng Liu) ***Journal of Economic Theory*** 2026, Volume 235, 106189
+**13.** [**Expectation and Confusion: Evidence and Theory**](/files/trend20260102.pdf) (with Yicheng Liu) ***Journal of Economic Theory*** 2026, Volume 235, 106189
 <br>
 
-**2.** [**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Heterogeneous.pdf) (with Xu Li, Guangyu Pei and Qian Xin) ***Journal of Economic Theory*** 2024, Volume 218, 105839
+**14.** [**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Heterogeneous.pdf) (with Xu Li, Guangyu Pei and Qian Xin) ***Journal of Economic Theory*** 2024, Volume 218, 105839
 <br>
 
-**3.** [**Attention Misallocation, Social Welfare and Policy Implications**](/files/Attention.pdf) (with Yulei Luo and Guangyu Pei) ***Journal of Economic Dynamics and Control*** 2015, 59(Oct):37-57
+**15.** [**Attention Misallocation, Social Welfare and Policy Implications**](/files/Attention.pdf) (with Yulei Luo and Guangyu Pei) ***Journal of Economic Dynamics and Control*** 2015, 59(Oct):37-57
