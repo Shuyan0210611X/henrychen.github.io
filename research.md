@@ -21,11 +21,10 @@ Politicians**](/files/miss-usa-submission-June.pdf) (with Yang Xu) under review
 <br>
 
 
-
-**5.** [**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/cronies.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) ***Journal of Public Economics*** Forthcoming
+**5.** [**Cronies in the Courtroom: Political Interference and Judicial Reforms**](/files/cronies.pdf) (with Hongbin Cai, Yuyu Chen and Sisi Zhang) ***Journal of Public Economics*** Volume 257, May 2026, 105615
 <br>
 
-**6.** [**Women in the Courtroom: Technology and Justice**](/files/resubmission-20241126.pdf) (with Yuyu Chen and Qingxu Yang) ***Review of Economic Studies*** Forthcoming
+**6.** [**Women in the Courtroom: Technology and Justice**](/files/resubmission-20241126.pdf) (with Yuyu Chen and Qingxu Yang) ***Review of Economic Studies*** Volume 93, Issue 3, May 2026, Pages 1574–1601
 <br>
 
 **7.** [**The Media and Foreign Powers: Does Market Access Matter for News Reporting?**](/files/news-website-crackdown.pdf) (with Li Han) ***The Economic Journal*** Forthcoming
@@ -49,7 +48,7 @@ Politicians**](/files/miss-usa-submission-June.pdf) (with Yang Xu) under review
 ## Information Friction
 <br>
 
-**1.** [**Expectation and Confusion: Evidence and Theory**](/files/trend20260102.pdf) (with Yicheng Liu) ***Journal of Economic Theory*** Forthcoming
+**1.** [**Expectation and Confusion: Evidence and Theory**](/files/trend20260102.pdf) (with Yicheng Liu) ***Journal of Economic Theory*** Volume 235, 2026, 106189
 <br>
 
 **2.** [**Heterogeneous Overreaction in Expectation Formation: Evidence and Theory**](/files/Heterogeneous.pdf) (with Xu Li, Guangyu Pei and Qian Xin) ***Journal of Economic Theory*** 2024, Volume 218, 105839
