@@ -46,6 +46,7 @@ permalink: /research/
 
 ## Information Friction
 <br>
+
 **1.** [**Expectation and Confusion: Evidence and Theory**](/files/trend20260102.pdf) (with Yicheng Liu) ***Journal of Economic Theory*** 2026, Volume 235, 106189
 <br><br>
 
