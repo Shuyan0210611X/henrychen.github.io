@@ -5,7 +5,7 @@ permalink: /research/
 ## Political Economy
 <br>
 **1.** [**Pageants and the President: The Liability of Celebrity Politicians**](/files/miss-usa-submission-June.pdf) (with Yang Xu) under review
-<br>
+<br><br>
 **2.** [**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/housing-2025-submission.pdf) (with Derek Huo) under review
 <br>
 **3.** [**Medals and Mindsets: How Women's Olympic Competitiveness Advances Gender Equality**](/files/Olyimpic.pdf) (with Qingxu Yang) under review [**Slides**](/files/Olyimpic-slide.pdf) 
