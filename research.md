@@ -4,6 +4,7 @@ permalink: /research/
 ---
 ## Political Economy
 <br>
+
 **1.** [**Pageants and the President: The Liability of Celebrity Politicians**](/files/miss-usa-submission-June.pdf) (with Yang Xu) under review
 <br><br>
 
