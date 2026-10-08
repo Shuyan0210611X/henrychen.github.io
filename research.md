@@ -5,7 +5,7 @@ permalink: /research/
 ## Working Papers
 <br>
 
-**1.** [**Pageants and the President: The Liability of Celebrity Politicians**](/files/miss-usa-submission-June.pdf) (with Yang Xu) under review
+**1.** [**Experience Effects in the Reception of Political News: Evidence from Trump's Miss USA Pageant**](/files/miss-usa-submission-Oct-2026.pdf) (with Yang Xu) under review
 <br><br>
 
 **2.** [**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/teargas.pdf) (with Derek Huo) under review
