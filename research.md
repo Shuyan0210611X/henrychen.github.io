@@ -17,7 +17,10 @@ permalink: /research/
 **4.** [**Becoming Cinderella: Strategic Beauty Investment Under Marriage Norms**](/files/Cinderella-July-9-2026-submission.pdf) (with Xiangyu Lu and Qingxu Yang) under review
 <br><br>
 
-**5.** [**Bottom-Up Institutional Change and Growth in China**](/files/CLZ_Feb-2025.pdf) (with Bingjing Li and Xiaodong Zhu)
+**5.** [**Social media exposure raises antidepressant demand**](/files/social-media-antidepressant.pdf) (with Jiayi Hou, Qingyuan Xue, and Bin Jiang) under review
+<br><br>
+
+**6.** [**Bottom-Up Institutional Change and Growth in China**](/files/CLZ_Feb-2025.pdf) (with Bingjing Li and Xiaodong Zhu)
 <br><br>
 
 ## Political Economy
