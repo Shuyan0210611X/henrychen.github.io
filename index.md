@@ -9,7 +9,7 @@ layout: default
 ## About Me
 
 <div style="font-size: 1.2em;">
-I am an Associate Professor of Economics at the Business School of the University of Hong Kong. I study how information frictions shape judicial decisions, news markets, and political crises, and how people acquire and use information to form expectations and allocate attention. My work combines applied and theoretical methods — causal inference and machine learning on large-scale datasets, alongside economic modeling — with the methodology guided by the research question. I also study the economic, political, and social consequences of institutional reforms.<br><br>
+I am an Associate Professor of Economics and a political economist at the Business School of the University of Hong Kong. I study how information frictions shape judicial decisions, news markets, and political crises, and how people acquire and use information to form expectations and allocate attention. My work combines applied and theoretical methods — causal inference and machine learning on large-scale datasets, alongside economic modeling — with the methodology guided by the research question. I also study the economic, political, and social consequences of institutional reforms.<br><br>
 
 My work has been published in the <em>Review of Economic Studies</em>, <em>American Political Science Review</em>, <em>American Economic Journal</em>, <em>Economic Journal</em>, <em>International Economic Review</em>, <em>Journal of Public Economics</em>, and <em>Journal of Economic Theory</em>. Prior to joining the University of Hong Kong, I obtained my PhD in Economics from the University of Zurich.
 
