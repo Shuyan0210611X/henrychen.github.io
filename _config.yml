@@ -19,7 +19,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/about/"
+   link: "/"
  - name: "Research"
    link: "/research/"
  - name: "Media Coverage"
