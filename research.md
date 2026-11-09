@@ -5,7 +5,7 @@ permalink: /research/
 ## Working Papers
 <br>
 
-**1.** [**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/teargas.pdf) (with Derek Huo) **Revise and Resubmit, The Economic Journal**
+**1.** [**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/teargas.pdf) (with Derek Huo) **Revise and Resubmit**, ***The Economic Journal***
 <br><br>
 
 **2.** [**Experience Effects in the Reception of Political News: Evidence from Trump's Miss USA Pageant**](/files/miss-usa-submission-Oct-2026.pdf) (with Yang Xu) under review
