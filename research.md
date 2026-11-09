@@ -5,10 +5,10 @@ permalink: /research/
 ## Working Papers
 <br>
 
-**1.** [**Experience Effects in the Reception of Political News: Evidence from Trump's Miss USA Pageant**](/files/miss-usa-submission-Oct-2026.pdf) (with Yang Xu) under review
+**1.** [**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/teargas.pdf) (with Derek Huo) **Revise and Resubmit, The Economic Journal**
 <br><br>
 
-**2.** [**The Scar of Political Conflict: Evidence from Tear Gas Deployments in Hong Kong**](/files/teargas.pdf) (with Derek Huo) under review
+**2.** [**Experience Effects in the Reception of Political News: Evidence from Trump's Miss USA Pageant**](/files/miss-usa-submission-Oct-2026.pdf) (with Yang Xu) under review
 <br><br>
 
 **3.** [**Medals and Mindsets: How Women's Olympic Competitiveness Advances Gender Equality**](/files/Olyimpic.pdf) (with Qingxu Yang) under review [**Slides**](/files/Olyimpic-slide.pdf)
