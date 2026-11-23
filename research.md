@@ -23,6 +23,9 @@ permalink: /research/
 **6.** [**Bottom-Up Institutional Change and Growth in China**](/files/CLZ_Feb-2025.pdf) (with Bingjing Li and Xiaodong Zhu)
 <br><br>
 
+**7.** [**Heterogeneous Inflation Expectations and Subjective Uncertainty: Evidence and Theory**](/files/Heterogeneous-Inflation-Expectations.pdf) (with Yicheng Liu and Yibo Meng) under review
+<br><br>
+
 ## Political Economy
 <br>
 
